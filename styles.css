@@ -116,6 +116,11 @@ button {
   flex-basis: 100px;
 }
 
+.info-card p {
+  margin-top: 5px;
+  text-align: center;
+}
+
 .info img {
   object-fit: cover;
   width: 150px;
