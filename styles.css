@@ -90,3 +90,11 @@ button {
   width: 350px;
   height: auto;
 }
+
+.info img {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  border: 4px solid #3882F6;
+  border-radius: 18px;
+}
