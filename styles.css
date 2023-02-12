@@ -154,3 +154,33 @@ button {
   font-weight: 800;
   margin: 10px 0 0 0;
 }
+
+.action {
+  display: flex;
+  justify-content: center;
+}
+
+.action-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 5px;
+  width: 800px;
+  padding: 20px 0 20px 0;
+  margin: 60px 0 60px 0;
+}
+
+.action-text p {
+  padding: 0;
+  margin: 0;
+}
+
+.action-header {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.action-button {
+  border-color: #F9FAF8;
+  border-style: solid;
+}
